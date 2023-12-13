@@ -1,10 +1,10 @@
 h1 {
-    background-color: red; 
+    background-color: green; 
     color: white;
 }
 
 p {
-    background-color: green;
+    background-color: red;
     color: white;
     font-weight: bold;
 }
